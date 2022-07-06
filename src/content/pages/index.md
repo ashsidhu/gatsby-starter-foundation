@@ -1,12 +1,13 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Aneesh Mittal
+tagline: Designer, Blogger, Traveller
+featuredImage: /assets/20180715_151123.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
+Aneesh of all trades, Master of a few. And web design is not one of them (yet).
 
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+I have some theoretical idea of a lot of technologies, and now is the time to use this knowledge to build some practical products.
