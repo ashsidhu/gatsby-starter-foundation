@@ -5,7 +5,7 @@ title: Aneesh Mittal
 tagline: Designer, Blogger, Traveller
 featuredImage: /assets/20180715_151123.jpg
 cta:
-  ctaText: Know more
+  ctaText: Know More.
   ctaLink: /about
 ---
 Aneesh of all trades, Master of a few. And web design is not one of them (yet).
