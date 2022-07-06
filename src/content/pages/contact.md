@@ -3,7 +3,12 @@ template: contact-page
 slug: /contact
 title: Get in touch
 ---
+Like what I do and want to be a partner?
 
-Got a burning question regarding **JAMstack**, Need a new **Website**, or just anything in general. We are happy to talk.
+Or have some opinion on something I wrote?
 
-Just send us a message using the form below or you can send us a DM on [Twitter](https://twitter.com/stackrole)
+Just want to say hi?
+
+
+
+Get in touch via [e-mail](rickypedia10@gmail.com) or send DM on [Twitter](twitter.com/rickypediaspace).
