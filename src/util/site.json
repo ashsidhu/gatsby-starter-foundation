@@ -1,12 +1,12 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "Rickypedia",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
-    "image": "/assets/stackrole.png",
-    "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "description": "A personal blog by Aneesh Mittal.\nI write about a lot of random topics; Crypto, Business, History, (personal) Travel, Philosophy are just some of them.\nAll views my own.",
+    "siteUrl": "rickypedia.space",
+    "image": "/assets/wall-patternb.jpg",
+    "iconimage": "/assets/wall-patternr.jpg",
+    "twitterUsername": "@rickypediaspace"
   },
   "ga": "UA-XXXXXXXXX-X"
 }
