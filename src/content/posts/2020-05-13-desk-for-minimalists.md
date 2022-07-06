@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: "Mighty Himalayas, a Untalented & Overconfident Rider, and Global
+title: "Mighty Himalayas, an Untalented & Overconfident Rider, and Global
   Warming: 9 Days on a Motorcycle (2022)"
 slug: /travel/1
 date: 2022-07-06 20:44
