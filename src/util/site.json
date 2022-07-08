@@ -5,6 +5,7 @@
     "description": "A personal blog by Aneesh Mittal. I write about a lot of random topics; Crypto, Business, History, (personal) Travel, Philosophy are just some of them. All views my own.",
     "siteUrl": "https://rickypedia.space",
     "image": "/assets/wall-patternb.jpg",
+    "favicon": "/assets/rickypedia-favicon.png",
     "twitterUsername": "@rickypediaspace"
   },
   "ga": "UA-XXXXXXXXX-X"
